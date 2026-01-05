@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -187,7 +187,7 @@
     <p>If you have any questions about this Privacy Policy or data practices, please contact us through:</p>
     <ul>
         <li><strong>In-App Feedback:</strong> Settings &gt; Feedback</li>
-        <li><strong>Email:</strong> <a href="kuma@oneboom.vip" class="highlight-red">[ support@feloapp.com ]</a></li>
+        <li><strong>Email:</strong> <a href="kuma@oneboom.vip" class="highlight-red">[ kuma@oneboom.vip]</a></li>
     </ul>
 
     <div class="footer">
