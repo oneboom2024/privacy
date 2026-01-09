@@ -281,8 +281,11 @@
     </ul>
 
     <h2>13. Contact Us</h2>
-    <p>If you have any questions about this Privacy Policy or data practices, please contact us through the Privacy Policy webpage.</p>
+    <p>If you have any questions about this Privacy Policy or data practices, please contact us through the Privacy Policy webpage.
+    Email: [ kuma@oneboom.vip]</p>
 </div>
+
+
 
 </body>
 </html>
