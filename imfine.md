@@ -23,12 +23,6 @@
     <h1>Privacy Policy</h1>
     <p class="date">Last Updated: January 15, 2026</p>
 
-    ```
-
-### 第二步：拼接正文
-**紧接着上面代码的末尾**，粘贴下面这部分内容：
-
-```html
     <h2>1. Information We Collect</h2>
     <p>We collect the following information to provide our safety check-in service:</p>
     <ul>
