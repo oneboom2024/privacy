@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -89,7 +87,7 @@
 
         <h2>6. Contact Us</h2>
         <p>If you have any questions or concerns about this Privacy Policy, please contact us at: <br>
-        <span class="contact-email">txln1201@joylab.cc</span></p>
+        <span class="contact-email">kuma@oneboom.vip</span></p>
     </div>
 
 </body>
