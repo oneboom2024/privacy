@@ -65,6 +65,6 @@
     <p>Depending on your location (e.g., GDPR in Europe, CCPA in California), you may have the right to request access to, correction of, or deletion of your data. Since most of your data (like your photos) is stored locally on your device or processed anonymously, you can delete this data simply by deleting the App.</p>
 
     <h2>7. Contact Us</h2>
-    <p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: <strong>txln1201@joylab.cc</strong>.</p>
+    <p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: <strong>kuma@oneboom.vip</strong>.</p>
 
 </body>
