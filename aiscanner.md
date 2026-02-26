@@ -3,7 +3,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Privacy Policy - AI Scanner: Photo & PDF Fix</title>
     <style>
-        /* Light theme styling for clean readability */
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
             line-height: 1.6;
@@ -20,12 +19,13 @@
         a { color: #007aff; text-decoration: none; }
         a:hover { text-decoration: underline; }
         .last-updated { font-size: 13px; color: #888888; margin-bottom: 30px; }
+        .highlight-compliance { font-weight: bold; color: #111111; }
     </style>
 </head>
 <body>
 
     <h1>Privacy Policy</h1>
-    <div class="last-updated">Last Updated: February 20, 2026</div>
+    <div class="last-updated">Last Updated: February 26, 2026</div>
 
     <p>Welcome to <strong>AI Scanner: Photo & PDF Fix</strong> (the "App"). Your privacy is critically important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our App.</p>
 
@@ -53,7 +53,7 @@
         <li><a href="https://www.facebook.com/about/privacy/" target="_blank">Facebook (Meta)</a></li>
         <li><a href="https://replicate.com/privacy" target="_blank">Replicate</a></li>
     </ul>
-    <p><strong>Important Note on AI Image Processing:</strong> The photos you upload for AI processing are transmitted temporarily. They are not used by us or our third-party AI providers to train public machine learning models, nor are they sold to third parties.</p>
+    <p><strong>Important Note on AI Image Processing & Data Protection:</strong> The photos you upload for AI processing are transmitted temporarily. They are not used by us or our third-party AI providers to train public machine learning models, nor are they sold to third parties. <span class="highlight-compliance">Furthermore, we confirm that any third-party AI service provider we share your data with (including Google and Replicate) provides the same or equal protection of user data as stated in this Privacy Policy.</span></p>
 
     <h2>4. App Tracking Transparency (ATT)</h2>
     <p>We respect your privacy choices. We will only track your device across apps and websites owned by other companies (via the Facebook SDK) if you explicitly tap "Allow" on the iOS App Tracking Transparency prompt. You can change this preference at any time in your iOS device settings.</p>
