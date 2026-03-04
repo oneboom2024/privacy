@@ -25,7 +25,7 @@
 <body>
 
     <h1>Privacy Policy</h1>
-    <div class="last-updated">Last Updated: February 26, 2026</div>
+    <div class="last-updated">Last Updated: March 4, 2026</div>
 
     <p>Welcome to <strong>AI Scanner: Photo & PDF Fix</strong> (the "App"). Your privacy is critically important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our App.</p>
 
@@ -33,6 +33,7 @@
     <p>To provide and improve our services, we may collect the following types of information:</p>
     <ul>
         <li><strong>User Content (Photos and Documents):</strong> When you use features like document scanning, old photo restoration, or plant diagnosis, we collect the images you explicitly upload or capture. <em>Note: These images are NOT linked to your personal identity.</em></li>
+        <li><strong>Face Data:</strong> For the photo restoration and enhancement features, the App processes standard 2D photographs that may contain human faces. We do NOT collect biometric face data (such as TrueDepth API data) for facial recognition or identification. Face data in the context of our App refers solely to the visual representation of faces within the photos you explicitly upload.</li>
         <li><strong>Device Identifiers:</strong> We collect device identifiers (such as IDFA) to understand how you interact with our App and for marketing attribution.</li>
         <li><strong>Usage & Diagnostics Data:</strong> We collect crash logs, performance data, and app activity to ensure the App runs smoothly.</li>
         <li><strong>Purchase History:</strong> We keep a record of your in-app purchases and subscriptions to provide you with the correct premium features.</li>
@@ -42,6 +43,7 @@
     <p>We use the collected information for the following purposes:</p>
     <ul>
         <li><strong>AI Processing:</strong> Your images are securely transmitted to our third-party AI partners (such as Google Gemini and Replicate) strictly for fulfilling your requested tasks (e.g., repairing a photo or solving a math problem).</li>
+        <li><strong>Face Data Usage & Retention:</strong> The visual face data in your uploaded photos is used exclusively to apply AI-driven image enhancement (e.g., unblurring and restoring vintage photos). This data is securely transmitted to our cloud AI provider (Replicate) via API. It is processed <strong>ephemerally</strong> (only in memory during the operation), is <strong>never</strong> permanently stored on our servers or third-party servers, and is immediately destroyed after the enhanced image is returned to your device. It is not shared with any other third parties or used to train AI models.</li>
         <li><strong>Analytics and Stability:</strong> We use Firebase (by Google) to monitor app crashes, track feature usage, and improve overall performance.</li>
         <li><strong>Advertising and Attribution:</strong> We use the Facebook SDK (by Meta) to measure the effectiveness of our advertising campaigns. If you grant permission via the App Tracking Transparency (ATT) prompt, we may use your device identifier to attribute app installs to our ads.</li>
     </ul>
@@ -68,3 +70,4 @@
     <p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: <strong>kuma@oneboom.vip</strong>.</p>
 
 </body>
+</html>
