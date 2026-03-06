@@ -130,6 +130,9 @@
         <li><strong>d)</strong> Limit processing to the scope necessary for achieving the purpose, following the "data minimization" principle.</li>
     </ul>
 
+    <p><strong>2.7 Image Processing and Storage</strong><br>
+    When you use our coin identification feature, the photos you take or upload are processed by our third-party AI service providers (such as Google Gemini) solely for the purpose of recognizing and valuing the coin. These images may be securely stored in our cloud database (Firebase) to allow you to maintain your digital collection history across devices. We do not use your personal photos to train our AI models, nor do we sell or share your images with unauthorized third parties.</p>
+
     <h3>3. App Tracking Transparency (ATT) for iOS Users</h3>
     <p>In compliance with Apple's App Tracking Transparency framework (applicable to iOS 14.5 and later), we will ask for your explicit permission before collecting data that is used to track you across apps and websites owned by other companies for targeted advertising or advertising measurement purposes.</p>
     <ul>
