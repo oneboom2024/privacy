@@ -66,7 +66,7 @@
 </head>
 <body>
 
-```
+
 <h1>Privacy Policy</h1>
 <p><strong>Last Updated:</strong> June 25, 2026</p>
 
@@ -184,7 +184,7 @@ We may use Meta technologies to understand advertising performance and general a
 <div class="footer">
     &copy; 2026 FastCleanup. All rights reserved.
 </div>
-```
+
 
 </body>
 </html>
