@@ -257,7 +257,7 @@
       <h2>Contact us</h2>
       <p>
         For questions, contact
-        <a href="mailto:support@eden.app">support@eden.app</a>.
+        <a href="mailto:kuma@oneboom.vip">kuma@oneboom.vip</a>.
       </p>
     </section>
   </article>
